@@ -80,6 +80,4 @@ Off-White Hoodie is the best-selling product of 2022.
 🛠 Tools Used
 Microsoft Excel – Pivot tables, charts, slicers, and formatting for dashboard creation.
 
-📁 File Info
-Screenshot File: Sneakers & Streetwear Sales Analysis Report (2022).png
 
