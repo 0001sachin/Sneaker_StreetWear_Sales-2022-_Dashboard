@@ -1,6 +1,6 @@
 🧾 Sneakers & Streetwear Sales Analysis Report (2022)
 This project presents a detailed sales analysis for sneakers and streetwear brands for the year 2022. The dashboard provides insights into top-performing products, preferred payment modes, monthly sales trends, and more.
-
+![Dashboard Screenshot 2](https://github.com/0001sachin/Sneaker_StreetWear_Sales-2022-_Dashboard/blob/main/Screenshot%202025-08-01%20164923.png)
 📊 Dashboard Overview
 The dashboard includes the following key visualizations:
 
